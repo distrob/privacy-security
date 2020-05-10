@@ -1,4 +1,4 @@
-Translate this site:
+[Translate this site] (https://translate.google.com/translate?hl=&sl=en&tl=pt&u=https%3A%2F%2Fdistrob.github.io%2Fprivacy-security%2F)
 
 ## Welcome to Breve Internet Security and Privacy Tips
 
@@ -6,8 +6,9 @@ This page contains a comprehensive collection of internet security and privacy r
 
 ### Index
 
-- Summary
+- Basics
 - Privacy resources
 - Security resources
 
+### Summary
 
