@@ -1,4 +1,4 @@
-[Translate this site] (https://translate.google.com/translate?hl=&sl=en&tl=pt&u=https%3A%2F%2Fdistrob.github.io%2Fprivacy-security%2F)
+[Translate this site](https://translate.google.com/translate?hl=&sl=en&tl=pt&u=https%3A%2F%2Fdistrob.github.io%2Fprivacy-security%2F)
 
 ## Welcome to Breve Internet Security and Privacy Tips
 
