@@ -1,4 +1,4 @@
-# Internet privacy and security recommendations
+# Internet privacy and security resources
 
 A collection of resources and tips for internet security and privacy. 
 
