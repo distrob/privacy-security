@@ -13,7 +13,7 @@ This page contains a comprehensive collection of internet security and privacy r
 ### Fundamentals for beginners
 Even though there is a lot for one to learn about how to be safe and pivate (as much as possible) online, the basic recommendations are:
 
-- Pay attention to links in messages in your email box. They can lead to websites impersonating official websites, such as your bank. This is called [phishing](https://en.wikipedia.org/wiki/Phishing). The safest thing to do is to search for the site you want to visit by using a search engine (e.g. Duck.com or Google.com)
+- Pay attention to links in messages in your email box. They can lead to websites impersonating official websites, such as your bank. This is called [phishing (click to read more)](https://en.wikipedia.org/wiki/Phishing). The safest thing to do is to search for the site you want to visit by using a search engine (e.g. Duck.com or Google.com)
 
 - You can remove internet advertisements which track you everywhere by using an internet browser add-on. For desktops, the most recommended one is uBlock Origin. Download it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [Firefox](https://addons.mozilla.org/addon/ublock-origin/). If you use Safari, I recommend [Wipr](https://giorgiocalderolla.com/wipr.html) (also available for iPhone)
 
