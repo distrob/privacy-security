@@ -17,3 +17,9 @@ Even though there is a lot for one to learn about how to be safe and pivate (as 
 
 - You can remove internet advertisements which track you everywhere by using an internet browser add-on. For desktops, the most recommended one is uBlock Origin. Download it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [Firefox](https://addons.mozilla.org/addon/ublock-origin/). If you use Safari, I recommend [Wipr](https://giorgiocalderolla.com/wipr.html) (also available for iPhone)
 
+- Your digital data is part of your life. 
+
+- Facebook, Google and others are tracking you almost everywhere. If you use these services, make sure to adjust 
+
+Talk about Ransomware
+
